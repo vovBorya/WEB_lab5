@@ -17,15 +17,15 @@ body {
 }
 
 .wrap {
-    justify-content: center;
     display: flex;
+    width: 100%;
     border: 2px solid #389683;
 }
 .main {
     background: #D8C3A5;
     margin: 50px;
     padding: 30px;
-    width: 60%;
+    width: 50%;
     line-height: 35px;
     border: 2px solid #389683;
 }
