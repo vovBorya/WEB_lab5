@@ -50,6 +50,10 @@ a {
     color: #5D5C61;
 }
 
+a:hover {
+    color: #05386B;
+}
+
 /*images*/
 img {
     width: 40%;
