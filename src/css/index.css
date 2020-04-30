@@ -19,7 +19,6 @@ body {
 .wrap {
     justify-content: center;
     display: flex;
-    align-items: flex-start;
     border: 2px solid #389683;
 }
 .main {
@@ -32,10 +31,13 @@ body {
 }
 
 .sidebar {
+    width: 20%;
+    height: 100%;
     background: #AFD275;
     padding: 30px;
+    text-align: center;
     line-height: 50px;
-    margin: 80px;
+    margin: 50px;
     border: 2px solid;
 }
 
