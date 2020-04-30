@@ -8,7 +8,6 @@ body {
 }
 /*divs*/
 .header {
-    width: 100%;
     padding: 15px;
     font: bold 100px serif;
     background: #389683;
@@ -17,8 +16,8 @@ body {
 }
 
 .wrap {
+    justify-content: center;
     display: flex;
-    width: 100%;
     border: 2px solid #389683;
 }
 .main {
