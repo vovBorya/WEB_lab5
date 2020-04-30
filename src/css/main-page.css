@@ -1,0 +1,63 @@
+body {
+    background-color: #9CDB95;
+    color: #375683;
+    font-size: 25px;
+    font-family: "Courier";
+    font-weight: lighter;
+    margin: 0;
+}
+/*divs*/
+.header {
+    width: 100%;
+    padding: 15px;
+    font: bold 100px serif;
+    background: #389683;
+    color: #05386B;
+    text-align: center;
+    position: fixed;
+}
+
+.wrap {
+    padding-top: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: flex-start;
+    border: 2px solid #389683;
+}
+.main {
+    background: #D8C3A5;
+    margin: 50px;
+    padding: 30px;
+    width: 50%;
+    line-height: 35px;
+    border: 2px solid #389683;
+}
+
+.sidebar {
+    background: #AFD275;
+    padding: 30px;
+    line-height: 50px;
+    margin: 80px;
+    border: 2px solid;
+}
+
+.footer {
+    padding: 50px;
+    float: right;
+}
+
+a {
+    color: #5D5C61;
+}
+
+/*images*/
+.logo {
+    width: 80px;
+}
+
+.products {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    border: 2px solid;
+}
