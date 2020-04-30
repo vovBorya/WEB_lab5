@@ -14,11 +14,9 @@ body {
     background: #389683;
     color: #05386B;
     text-align: center;
-    position: fixed;
 }
 
 .wrap {
-    padding-top: 100px;
     justify-content: center;
     display: flex;
     align-items: flex-start;
